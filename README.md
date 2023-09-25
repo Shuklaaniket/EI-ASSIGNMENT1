@@ -5,7 +5,7 @@ ChatApp
   
   FOR CLIENT SIDE::
  
-  Then in (terminal) (npx create-react-app) for package-json and package-lock-json file
+  Then in (terminal) (npx create-react-app)for(  node-modules ) for package-json and package-lock-json file otherwise the code will not work
   Then install following libraries in client side: npm install socket.io-client react-router-dom
   Then include the client folder and in terminal write-( npm start)
   
