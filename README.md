@@ -16,4 +16,4 @@ ChatApp
   Then include the server folder and write in terminal(npm start)
 
   THEN YOU MUST BE GOOD TO GO:-
-  FOR OUTPUT IM SHARING A VIDEO LINK IN THE OUTPUT FOLDER(HOW DOES IT WORK)
+  FOR OUTPUT IM SHARING A VIDEO LINK IN THE Under readme file (HOW DOES IT WORK)
